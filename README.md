@@ -33,4 +33,5 @@
 - 스프링 컨테이너 생성, 등록된 모든 빈 조회
 - 스프링 빈 조회 (기본, 동일한 타입이 둘 이상, 상속 관계)
 - [BeanFactory와 ApplicationContext](summary/week03.md)
+- xml파일을 통한 스프링 빈 설정
 <br>
