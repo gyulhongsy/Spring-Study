@@ -34,4 +34,5 @@
 - 스프링 빈 조회 (기본, 동일한 타입이 둘 이상, 상속 관계)
 - [BeanFactory와 ApplicationContext](summary/week03.md)
 - xml파일을 통한 스프링 빈 설정
+- [BeanDefinition](summary/week03_2.md)
 <br>
